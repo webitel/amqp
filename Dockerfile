@@ -2,7 +2,6 @@
 FROM 3.6.14-management-alpine
 LABEL maintainer="Vitaly Kovalyshyn"
 
-ENV VERSION
 ENV WEBITEL_MAJOR 3
 ENV WEBITEL_REPO_BASE https://github.com/webitel
 
