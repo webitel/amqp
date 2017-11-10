@@ -1,5 +1,5 @@
 # vim:set ft=dockerfile:
-FROM 3.6.14-management-alpine
+FROM rabbitmq:3.6.14-management-alpine
 LABEL maintainer="Vitaly Kovalyshyn"
 
 ENV WEBITEL_MAJOR 3
