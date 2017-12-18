@@ -1,3 +1,3 @@
 # amqp
 
-RabbitMQ with add-ons for Webitel
+RabbitMQ 3 with add-ons for Webitel
