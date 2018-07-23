@@ -1,4 +1,4 @@
 # amqp
 
-RabbitMQ 3 with add-ons for Webitel
+RabbitMQ 3.7 with add-ons for Webitel
 
