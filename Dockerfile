@@ -9,4 +9,3 @@ ADD https://dl.bintray.com/rabbitmq/community-plugins/3.7.x/rabbitmq_delayed_mes
 RUN unzip /plugins/rabbitmq_delayed_message_exchange-20171201-3.7.x.zip -d /plugins/ \
     && rm /plugins/rabbitmq_delayed_message_exchange-20171201-3.7.x.zip \
     && rabbitmq-plugins enable --offline rabbitmq_delayed_message_exchange
-
